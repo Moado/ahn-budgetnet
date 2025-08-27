@@ -1,0 +1,16 @@
+feature,tier,missing_rate_percent,cost_usd,description
+MCATOT,T2,92.64599855803894,300,Clinical evaluations
+COGCAT,T2,37.63518385003605,300,Clinical evaluations
+COGDXCL,T1,23.648161499639507,75,Self-assessments
+STAI_TOTAL,T1,5.263157894736842,75,Self-assessments
+AGE_AT_VISIT,T0,0.07209805335255948,0,Demographics
+COGSTATE,T1,0.0,75,Self-assessments
+FNCDTCOG,T1,0.0,75,Self-assessments
+RVWNPSY,T1,0.0,75,Self-assessments
+COGDECLN,T1,0.0,75,Self-assessments
+NP2PTOT,T1,0.0,75,Self-assessments
+NP1RTOT,T1,0.0,75,Self-assessments
+MSEADLG,T2,0.0,300,Clinical evaluations
+SDMTOTAL,T2,0.0,300,Clinical evaluations
+DVT_SDM,T2,0.0,300,Clinical evaluations
+DVSD_SDM,T2,0.0,300,Clinical evaluations
