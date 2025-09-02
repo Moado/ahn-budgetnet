@@ -227,7 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or collaborations:
 
-- **Email**: [corresponding.author@institution.edu]
+- **Email**: [moad.hani@umons.ac.be]
 - **Issues**: [GitHub Issues](https://github.com/Moado/ahn-budgetnet/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Moado/ahn-budgetnet/discussions)
 
